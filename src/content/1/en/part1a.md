@@ -722,5 +722,4 @@ const Content = ... {
 ```
 
 Our application passes on information in quite a primitive way at the moment, since it is based on individual variables. We shall fix that in [part 2](/en/part2), but before that, let's go to part1b to learn about JavaScript.
-
-</div>
+ You can check this [website] (https://react.dev/learn/passing-props-to-a-component) to get to know the term #Props
